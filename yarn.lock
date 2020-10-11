@@ -831,6 +831,13 @@ commander@2.8.x:
   dependencies:
     graceful-readlink ">= 1.0.0"
 
+commander@2.9.0:
+  version "2.9.0"
+  resolved "https://registry.yarnpkg.com/commander/-/commander-2.9.0.tgz#9c99094176e12240cb22d6c5146098400fe0f7d4"
+  integrity sha1-nJkJQXbhIkDLItbFFGCYQA/g99Q=
+  dependencies:
+    graceful-readlink ">= 1.0.0"
+
 commander@>=0.5.2, commander@^2.9.0:
   version "2.18.0"
   resolved "https://registry.yarnpkg.com/commander/-/commander-2.18.0.tgz#2bf063ddee7c7891176981a2cc798e5754bc6970"
@@ -3413,11 +3420,13 @@ netroute@^1.0.2:
     bindings "~1.0.0"
     nan "^2.1.0"
 
-"network@git+https://git@github.com/melvinto/network.git":
-  version "0.3.1"
-  resolved "git+https://git@github.com/melvinto/network.git#08702539869c7aebfddb1bc68dac36c463acfb6d"
+network@0.5.0:
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/network/-/network-0.5.0.tgz#4fca12ffe80877035a859f655618ee30b48238da"
+  integrity sha512-pH4/Qg6/z0itY09yqVAZcHO64yvkqvGn6Qo8dKdg8mkx6eYZnVE1Qlzk8Bl2lb5wtJLVDKQJr5eU2b6i5M35Gw==
   dependencies:
     async "^1.5.2"
+    commander "2.9.0"
     needle "1.1.2"
     wmic "^0.1.0"
 
