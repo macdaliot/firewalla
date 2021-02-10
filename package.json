@@ -58,7 +58,7 @@
     "nat-pmp": "^1.0.0",
     "nat-upnp": "git+https://git@github.com/melvinto/node-nat-upnp.git",
     "netroute": "^1.0.2",
-    "network": "git+https://git@github.com/melvinto/network.git",
+    "network": "0.5.0",
     "node-forge": "^0.7.1",
     "node-persist": "0.0.8",
     "node-static": "^0.7.7",
