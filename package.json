@@ -47,7 +47,7 @@
     "jsonfile": "^2.4.0",
     "jsonwebtoken": "^8.3.0",
     "later": "^1.2.0",
-    "libnmap": "^0.2.29",
+    "libnmap": "^0.4.19",
     "lodash": "^4.17.2",
     "minimatch": "3.0.4",
     "minimist": "*",
