@@ -81,7 +81,7 @@
     "stats-lite": "https://registry.npmjs.org/stats-lite/-/stats-lite-2.0.3.tgz",
     "striptags": "^2.1.1",
     "swagger-node-express": "~2.0",
-    "underscore": "^1.8.3",
+    "underscore": "^1.12.1",
     "unix-dgram": "^0.2.3",
     "ursa": "^0.9.1",
     "usage": "^0.7.1",
