@@ -16,6 +16,6 @@
     "passport": "*",
     "passport-http-bearer": "^1.0.1",
     "serve-favicon": "~2.3.0",
-    "swagger-node-express": "~2.0"
+    "swagger-node-express": "~2.1.0"
   }
 }
