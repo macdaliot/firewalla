@@ -59,7 +59,7 @@
     "nat-upnp": "git+https://git@github.com/melvinto/node-nat-upnp.git",
     "netroute": "^1.0.2",
     "network": "git+https://git@github.com/melvinto/network.git",
-    "node-forge": "^0.7.1",
+    "node-forge": "^1.0.0",
     "node-persist": "0.0.8",
     "node-static": "^0.7.7",
     "os-utils": "^0.0.14",
