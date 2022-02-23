@@ -75,7 +75,7 @@
     "redis-timeseries": "git+https://git@github.com/melvinto/node-redis-timeseries.git",
     "request": "^2.67.0",
     "request-promise": "^4.2.2",
-    "requestretry": "^2.0.2",
+    "requestretry": "^7.0.0",
     "serve-favicon": "~2.3.0",
     "socket.io-client": "^1.4.8",
     "stats-lite": "https://registry.npmjs.org/stats-lite/-/stats-lite-2.0.3.tgz",
