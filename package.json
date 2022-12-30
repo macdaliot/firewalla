@@ -37,7 +37,7 @@
     "express": "^4.14.0",
     "external-ip": "^0.2.4",
     "fibers": "^2.0.0",
-    "flat": "^4.0.0",
+    "flat": "^5.0.1",
     "forever-monitor": "^1.7.0",
     "geoip-lite": "1.2.1",
     "graceful-fs": "^4.0.0",
