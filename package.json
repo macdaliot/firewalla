@@ -80,7 +80,7 @@
     "socket.io-client": "^1.4.8",
     "stats-lite": "https://registry.npmjs.org/stats-lite/-/stats-lite-2.0.3.tgz",
     "striptags": "^2.1.1",
-    "swagger-node-express": "~2.0",
+    "swagger-node-express": "~2.1.0",
     "underscore": "^1.8.3",
     "unix-dgram": "^0.2.3",
     "ursa": "^0.9.1",
