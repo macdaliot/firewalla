@@ -23,7 +23,7 @@
     "bee-queue": "^1.2.2",
     "bl": "1.2.0",
     "bleno": "https://registry.npmjs.org/bleno/-/bleno-0.4.0.tgz",
-    "body-parser": "1.9.x",
+    "body-parser": "1.19.0",
     "bonjour": "^3.2.2",
     "botbuilder": "^0.6.1",
     "camel-case": "^3.0.0",
